@@ -3,3 +3,6 @@
 ---
 
 A malicious peice of software that fills storage.
+
+## USAGE
+```python forkbomb.py```
