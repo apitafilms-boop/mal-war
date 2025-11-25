@@ -4,10 +4,10 @@
 
 A malicious peice of software that fills storage.
 
-## REQUIREMENTS
+## Requirements
 * Python
 
-## USAGE
+## Usage
 ```git clone https://github.com/apitafilms-boop/mal-war```
 
 ```cd fork```
