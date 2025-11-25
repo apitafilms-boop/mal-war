@@ -4,6 +4,9 @@
 
 A malicious peice of software that fills storage.
 
+## REQUIREMENTS
+* Python
+
 ## USAGE
 ```git clone https://github.com/apitafilms-boop/mal-war```
 
