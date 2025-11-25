@@ -4,4 +4,4 @@ from bomb import bombed
 system("clear")
 while True:
   repeat()
-  
+  bombed()
