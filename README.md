@@ -2,7 +2,7 @@
 
 ---
 
-A malicious peice of software that fills storage.
+A malicious piece of software that fills storage.
 
 ## Requirements
 * Python
