@@ -10,6 +10,8 @@ A malicious peice of software that fills storage.
 ## Usage
 ```git clone https://github.com/apitafilms-boop/mal-war```
 
+```cd mal-war```
+
 ```cd fork```
 
 ```python forkbomb.py```
