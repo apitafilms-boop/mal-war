@@ -1,5 +1,3 @@
-from bomb import bombed
-def repeat():
-  while True:
-    bombed()
-    repeat()
+from forked import forked
+while True:
+  forked()
