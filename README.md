@@ -14,4 +14,4 @@ A malicious piece of software that fills storage.
 
 ```cd fork```
 
-```python forkbomb.py```
+```python run.py```
